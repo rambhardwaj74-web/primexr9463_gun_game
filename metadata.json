@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Infinite: Zone Rush - Realistic Combat & Ballistics",
+  "description": "Tactical 3D first-person shooter featuring realistic physical ballistics, bullet drop, authentic multi-layer gunshot audio synthesis, and detailed procedural firearms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
